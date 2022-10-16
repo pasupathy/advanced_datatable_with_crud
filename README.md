@@ -11,5 +11,6 @@
     <li>The following package are used : advanced_datatable - for datatable, http - for async call to remote DB, fluttertoast for notification</li>
   <li>What is not included here is a serverside api codes</li>
 <li>You can use any database and server side language to generate json data for the api calls
+<li>The code runs well for both android and web</li>
 </ul>
 
